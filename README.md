@@ -80,8 +80,8 @@
 <li>Day 20: Form-A-Number-Divisible-By-3-Using-Array-Digits (20th October 2023)</li>
 <li>Day 21: Sum Of All Divisors From 1 To n (21st October 2023)</li>
 <li>Day 22: Number Of Paths (22nd October 2023)</li>
-<li>Day 23: Maximum Sum Increasing Subsequence (23rd OPctober 2023)</li>
-
+<li>Day 23: Maximum Sum Increasing Subsequence (23rd October 2023)</li>
+<li>Day 24: Palindromic Partitioning (24th October 2023)</li>
 
 
 
