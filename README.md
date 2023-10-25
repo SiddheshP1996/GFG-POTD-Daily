@@ -82,7 +82,7 @@
 <li>Day 22: Number Of Paths (22nd October 2023)</li>
 <li>Day 23: Maximum Sum Increasing Subsequence (23rd October 2023)</li>
 <li>Day 24: Palindromic Partitioning (24th October 2023)</li>
-
+<li>Day 25: Knapsack With Duplicate Items (25th October 2023)</li>
 
 
 
