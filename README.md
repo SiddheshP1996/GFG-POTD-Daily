@@ -84,6 +84,6 @@
 <li>Day 24: Palindromic Partitioning (24th October 2023)</li>
 <li>Day 25: Knapsack With Duplicate Items (25th October 2023)</li>
 <li>Day 26: Minimum Operations (26th October 2023)</li>
-
+<li>Day 27: Minimum Deletions (27th October 2023)</li>
 
 
