@@ -88,3 +88,6 @@
 <li>Day 28: Bleak Numbers (28th October 2023)</li>
 <li>Day 29: Check Whether K-th Bit Is Set Or Not (29th October 2023)</li>
 <li>Day 30: Sum Of XOR Of All Pairs (30th October 2023)</li>
+<li>Day 31: Move All Zeroes To End Of Array (31st October 2023)</li>
+
+# November-2023
