@@ -82,8 +82,12 @@
 <li>Day 22: Number Of Paths (22nd October 2023)</li>
 <li>Day 23: Maximum Sum Increasing Subsequence (23rd October 2023)</li>
 <li>Day 24: Palindromic Partitioning (24th October 2023)</li>
+<li>Day 25: Knapsack With Duplicate Items (25th October 2023)</li>
+<li>Day 26: Minimum Operations (26th October 2023)</li>
+<li>Day 27: Minimum Deletions (27th October 2023)</li>
+<li>Day 28: Bleak Numbers (28th October 2023)</li>
+<li>Day 29: Check Whether K-th Bit Is Set Or Not (29th October 2023)</li>
+<li>Day 30: Sum Of XOR Of All Pairs (30th October 2023)</li>
+<li>Day 31: Move All Zeroes To End Of Array (31st October 2023)</li>
 
-
-
-
-
+# November-2023
