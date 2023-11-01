@@ -91,3 +91,4 @@
 <li>Day 31: Move All Zeroes To End Of Array (31st October 2023)</li>
 
 # November-2023
+<li>Day 1: Frequencies Of Limited Range Array Elements (1st November 2023)</li>
