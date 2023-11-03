@@ -93,3 +93,4 @@
 # November-2023
 <li>Day 1: Frequencies Of Limited Range Array Elements (1st November 2023)</li>
 <li>Day 2: Minimum Distance Between Two Numbers (2nd November 2023)</li>
+<li>Day 3: Pythagorean Triplet (3rd November 2023)</li>
