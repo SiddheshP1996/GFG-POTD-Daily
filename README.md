@@ -96,3 +96,4 @@
 <li>Day 3: Pythagorean Triplet (3rd November 2023)</li>
 <li>Day 4: Find Transition Point (4th Novenber 2023)</li>
 <li>Day 5: Top K Frequent Elements In Array (5th November 2023)</li>
+<li>Day 6: Letters Collection (6th November 2023)</li>
