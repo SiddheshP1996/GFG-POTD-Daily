@@ -98,3 +98,4 @@
 <li>Day 5: Top K Frequent Elements In Array (5th November 2023)</li>
 <li>Day 6: Letters Collection (6th November 2023)</li>
 <li>Day 7: Sum Of Upper And Lower Triangles (7th November 2023)</li>
+<li>Day 8: Print Matrix In Snake Pattern (8th November 2023)</li>
