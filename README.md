@@ -100,3 +100,4 @@
 <li>Day 7: Sum Of Upper And Lower Triangles (7th November 2023)</li>
 <li>Day 8: Print Matrix In Snake Pattern (8th November 2023)</li>
 <li>Day 9: Predict The Column (9th November 2023)</li>
+<li>Day 10: Number Following A Pattern (10th November 2023)</li>
