@@ -102,3 +102,4 @@
 <li>Day 9: Predict The Column (9th November 2023)</li>
 <li>Day 10: Number Following A Pattern (10th November 2023)</li>
 <li>Day 11: Isomorphic Strings (11th November 2023)</li>
+<li>Day 12: Check If String Is Rotated By Two Places (12th November 2023)</li>
