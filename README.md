@@ -103,3 +103,4 @@
 <li>Day 10: Number Following A Pattern (10th November 2023)</li>
 <li>Day 11: Isomorphic Strings (11th November 2023)</li>
 <li>Day 12: Check If String Is Rotated By Two Places (12th November 2023)</li>
+<li>Day 13: Shortest Common Supersequence (13th November 2023)</li>
