@@ -105,3 +105,4 @@
 <li>Day 12: Check If String Is Rotated By Two Places (12th November 2023)</li>
 <li>Day 13: Shortest Common Supersequence (13th November 2023)</li>
 <li>Day 14: Check If Strings Are Rotations Of Each Other Or Not (14th November 2023)</li>
+<li>Day 15: Better String (15th November 2023)</li>
