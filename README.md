@@ -108,3 +108,4 @@
 <li>Day 15: Better String (15th November 2023)</li>
 <li>Day 16: Find The String (16th November 2023)</li>
 <li>Day 17: Binary Tree To CDLL (17th November 2023)</li>
+<li>Day 18: Reverse A Doubly Linked List (18th November 2023)</li>
