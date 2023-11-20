@@ -110,3 +110,4 @@
 <li>Day 17: Binary Tree To CDLL (17th November 2023)</li>
 <li>Day 18: Reverse A Doubly Linked List (18th November 2023)</li>
 <li>Day 19: Intersection Of Two Sorted Linked Lists (19th November 2023)</li>
+<li>Day 20: K Sum Paths (20th November 2023)</li>
