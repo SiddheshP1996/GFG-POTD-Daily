@@ -111,3 +111,4 @@
 <li>Day 18: Reverse A Doubly Linked List (18th November 2023)</li>
 <li>Day 19: Intersection Of Two Sorted Linked Lists (19th November 2023)</li>
 <li>Day 20: K Sum Paths (20th November 2023)</li>
+<li>Day 21: Determine If Two Trees Are Identical (21st November 2023)</li>
