@@ -112,3 +112,4 @@
 <li>Day 19: Intersection Of Two Sorted Linked Lists (19th November 2023)</li>
 <li>Day 20: K Sum Paths (20th November 2023)</li>
 <li>Day 21: Determine If Two Trees Are Identical (21st November 2023)</li>
+<li>Day 22: Symmetric Tree (22nd November 2023)</li>
