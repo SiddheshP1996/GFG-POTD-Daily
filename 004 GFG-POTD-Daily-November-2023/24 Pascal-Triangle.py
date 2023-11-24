@@ -1,4 +1,4 @@
-#User function Template for python3
+# User function Template for python3
 
 class Solution:
 
@@ -6,7 +6,7 @@ class Solution:
         # code here
         mod = ((10**9) + 7)
         results = [[] for i in range (n+1)]
-        #resuls[1] = [1]
+        #results[1] = [1]
         if n == 1 : return [1]
         results[2] = [1,1]
         for i in range(3, n+1):
