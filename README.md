@@ -116,3 +116,4 @@
 <li>Day 23: AVL Tree Insertion (23rd November 2023)</li>
 <li>Day 24: Pascal Triangle (24th November 2023)</li>
 <li>Day 25: Shuffle Integers (25th November 2023)</li>
+<li>Day 26: Print Pattern (26th November 2023)</li>
