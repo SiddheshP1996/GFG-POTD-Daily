@@ -117,3 +117,4 @@
 <li>Day 24: Pascal Triangle (24th November 2023)</li>
 <li>Day 25: Shuffle Integers (25th November 2023)</li>
 <li>Day 26: Print Pattern (26th November 2023)</li>
+<li>Day 27: Detect Cycle Using DSU (27th November 2023)</li>
