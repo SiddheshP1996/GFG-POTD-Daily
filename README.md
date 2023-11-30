@@ -120,3 +120,4 @@
 <li>Day 27: Detect Cycle Using DSU (27th November 2023)</li>
 <li>Day 28: Sum Of Dependencies In A Graph (28th November 2023)</li>
 <li>Day 29: Euler Circuit And Path (29th November 2023)</li>
+<li>Day 30: Shortest Path From 1 To n (30th November 2023)</li>
