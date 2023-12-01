@@ -121,3 +121,6 @@
 <li>Day 28: Sum Of Dependencies In A Graph (28th November 2023)</li>
 <li>Day 29: Euler Circuit And Path (29th November 2023)</li>
 <li>Day 30: Shortest Path From 1 To n (30th November 2023)</li>
+
+# December-2023
+<li>Day 1: Check Whether BST Contains Dead End (1st December 2023)</li>
