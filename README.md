@@ -128,3 +128,4 @@
 <li>Day 3: Brothers From Different Roots (3rd November 2023)</li>
 <li>Day 4: Sum String (4th December 2023)</li>
 <li>Day 5: Minimize The Heights II (5th December 2023)</li>
+<li>Day 6: How Many X's? (6th December 2023)</li>
