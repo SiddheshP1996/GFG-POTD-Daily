@@ -129,3 +129,4 @@
 <li>Day 4: Sum String (4th December 2023)</li>
 <li>Day 5: Minimize The Heights II (5th December 2023)</li>
 <li>Day 6: How Many X's? (6th December 2023)</li>
+<li>Day 7: Number Of Subarrays With Maximum Values In Given Range (7th December 2023)</li>
