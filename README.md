@@ -132,3 +132,4 @@
 <li>Day 7: Number Of Subarrays With Maximum Values In Given Range (7th December 2023)</li>
 <li>Day 8: Transform To Prime (8th December 2023)</li>
 <li>Day 9: Smith Number (9th December 2023)</li>
+<li>Day 10: Subarray With 0 Sum (10th December 2023)</li>
