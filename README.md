@@ -134,3 +134,4 @@
 <li>Day 9: Smith Number (9th December 2023)</li>
 <li>Day 10: Subarray With 0 Sum (10th December 2023)</li>
 <li>Day 11: Max Sum Subarray Of Size K (11th December 2023)</li>
+<li>Day 12: Gold Mine Problem (12th December 2023)</li>
