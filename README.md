@@ -136,3 +136,4 @@
 <li>Day 11: Max Sum Subarray Of Size K (11th December 2023)</li>
 <li>Day 12: Gold Mine Problem (12th December 2023)</li>
 <li>Day 13: Consecutive 1's Not Allowed (13th December 2023)</li>
+<li>Day 14: Painting The Fence (14th December 2023)</li>
