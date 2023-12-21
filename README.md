@@ -145,3 +145,4 @@
 <li>Day 18: Game Of XOR (18th December 2023)</li>
 <li>Day 19: Rightmost Different Bit (19th December 2023)</li>
 <li>Day 20: Modified Game Of Nim (20th December 2023)</li>
+<li>Day 21: Candy (21st December 2023)</li>
