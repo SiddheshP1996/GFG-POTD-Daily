@@ -146,3 +146,4 @@
 <li>Day 19: Rightmost Different Bit (19th December 2023)</li>
 <li>Day 20: Modified Game Of Nim (20th December 2023)</li>
 <li>Day 21: Candy (21st December 2023)</li>
+<li>Day 22: Maximum Meetings In One Room (22nd December 2023)</li>
