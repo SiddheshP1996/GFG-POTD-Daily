@@ -149,3 +149,4 @@
 <li>Day 22: Maximum Meetings In One Room (22nd December 2023)</li>
 <li>Day 23: Count More Than n/k Occurences (23rd December 2023)</li>
 <li>Day 24: Buy Maximum Stocks If I Stocks Can Be Bought On i-thDay (24th December 2023)</li>
+<li>Day 25: Determinant Of A Matrix (25th December 2023)</li>
