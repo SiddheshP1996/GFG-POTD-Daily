@@ -151,3 +151,4 @@
 <li>Day 24: Buy Maximum Stocks If I Stocks Can Be Bought On i-thDay (24th December 2023)</li>
 <li>Day 25: Determinant Of A Matrix (25th December 2023)</li>
 <li>Day 26: Largest Rectangular Sub Matrix Whose Sum Is 0 (26th December 2023)</li>
+<li>Day 27: Anti Diagonal Traversal Of Matrix (27th December 2023)</li>
