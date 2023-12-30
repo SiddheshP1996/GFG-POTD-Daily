@@ -154,3 +154,4 @@
 <li>Day 27: Anti Diagonal Traversal Of Matrix (27th December 2023)</li>
 <li>Day 28: Wildcard String Matching (28th December 2023)</li>
 <li>Day 29: Check If A String Is Repetition Of Its Substring Of k-length (29th December 2023)</li>
+<li>Day 30: Winner Of An Election (30th December 2023)</li>
