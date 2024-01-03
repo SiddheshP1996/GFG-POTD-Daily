@@ -164,3 +164,4 @@
 # January-2024
 <li>Day 1: Array Pair Sum Divisibility Problem (1st January 2024)</li>
 <li>Day 2: Largest Sum Subarray Of Size At Least K (2nd January 2024)</li>
+<li>Day 3: Smallest Window Containing 0, 1 and 2 (3rd January 2024)</li>
