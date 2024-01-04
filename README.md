@@ -165,3 +165,4 @@
 <li>Day 1: Array Pair Sum Divisibility Problem (1st January 2024)</li>
 <li>Day 2: Largest Sum Subarray Of Size At Least K (2nd January 2024)</li>
 <li>Day 3: Smallest Window Containing 0, 1 and 2 (3rd January 2024)</li>
+<li>Day 4: Find Element Occuring Once When All Other Are Present Thrice (4th January 2024)</li>
