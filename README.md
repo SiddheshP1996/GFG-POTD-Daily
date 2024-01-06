@@ -167,3 +167,4 @@
 <li>Day 3: Smallest Window Containing 0, 1 and 2 (3rd January 2024)</li>
 <li>Day 4: Find Element Occuring Once When All Other Are Present Thrice (4th January 2024)</li>
 <li>Day 5: Count Possible Ways To Construct Buildings (5th January 2024)</li>
+<li>Day 6: Techfest And The Queue (6th January 2024)</li>
