@@ -183,3 +183,4 @@
 <li>Day 19: Top k Numbers In A Stream (19th January 2024)</li>
 <li>Day 20: Distribute Candies In A Binary Tree (20th January 2024)</li>
 <li>Day 21: Vertex Cover (21st January 2024)</li>
+<li>Day 22: Paths From Root With A Specified Sum (22nd January 2024)</li>
