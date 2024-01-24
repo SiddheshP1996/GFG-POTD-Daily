@@ -185,3 +185,4 @@
 <li>Day 21: Vertex Cover (21st January 2024)</li>
 <li>Day 22: Paths From Root With A Specified Sum (22nd January 2024)</li>
 <li>Day 23: Course Schedule (23rd January 2024)</li>
+<li>Day 24: Check If A Given Graph Is Tree Or Not (24th January 2024)</li>
