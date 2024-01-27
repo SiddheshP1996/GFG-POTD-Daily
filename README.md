@@ -188,3 +188,4 @@
 <li>Day 24: Check If A Given Graph Is Tree Or Not (24th January 2024)</li>
 <li>Day 25: Shortest Prime Path (25th January 2024)</li>
 <li>Day 26: Fractional Knapsack (26th January 2024)</li>
+<li>Day 27: Brackets In Matrix Chain Multiplication (27th January 2024)</li>
