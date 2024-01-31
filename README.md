@@ -192,3 +192,4 @@
 <li>Day 28: Geekina Hate 1s (28th January 2024)</li>
 <li>Day 29: Count Digit Groupings Of A Number (29th January 2024)</li>
 <li>Day 30: LCS Of Three Strings (30th January 2024)</li>
+<li>Day 31: Insert And Search In A Trie (31st January 2024)</li>
