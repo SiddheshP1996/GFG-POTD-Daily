@@ -197,3 +197,4 @@
 # February-2024
 <li>Day 1: Panagram Checking (1st February 2024)</li>
 <li>Day 2: Implement Atoi (2nd February 2024)</li>
+<li>Day 3: Decimal Equivalent Of Binary Linked List (3rd February 2024)</li>
