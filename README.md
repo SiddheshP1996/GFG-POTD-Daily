@@ -200,3 +200,4 @@
 <li>Day 3: Decimal Equivalent Of Binary Linked List (3rd February 2024)</li>
 <li>Day 4: Subtraction In Linked List (4th February 2024)</li>
 <li>Day 5: Sorted Insert For Circular Linked List (5th February 2024)</li>
+<li>Day 6: Count The Nodes At Distance K From Leaf (6th February 2024)</li>
