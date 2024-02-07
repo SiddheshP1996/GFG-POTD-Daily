@@ -201,3 +201,4 @@
 <li>Day 4: Subtraction In Linked List (4th February 2024)</li>
 <li>Day 5: Sorted Insert For Circular Linked List (5th February 2024)</li>
 <li>Day 6: Count The Nodes At Distance K From Leaf (6th February 2024)</li>
+<li>Day 7: Min Distance Between Two Given Nodes Of A Binary Tree (7th February 2024)</li>
