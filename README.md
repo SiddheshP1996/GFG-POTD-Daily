@@ -203,3 +203,4 @@
 <li>Day 6: Count The Nodes At Distance K From Leaf (6th February 2024)</li>
 <li>Day 7: Min Distance Between Two Given Nodes Of A Binary Tree (7th February 2024)</li>
 <li>Day 8: Check If All Leaves Are At Same Level (8th February 2024)</li>
+<li>Day 9: Check For Children Sum Property In A Binary Tree (9th February 2024)</li>
