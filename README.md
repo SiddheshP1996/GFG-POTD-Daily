@@ -215,3 +215,4 @@
 <li>Day 18: Sum Of Leaf Nodes In BST (18th February 2024)</li>
 <li>Day 19: Game With String (19th February 2024)</li>
 <li>Day 20: Word Break (20th February 2024)</li>
+<li>Day 21: Boolean Parenthesization (21st February 2024)</li>
