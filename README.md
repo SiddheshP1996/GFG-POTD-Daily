@@ -220,3 +220,4 @@
 <li>Day 23: Buy And Sell A Share At Most Twice (23rd February 2024)</li>
 <li>Day 24: Maximum Sum Problem (24th February 2024)</li>
 <li>Day 25: Reach A Given Score (25th February 2024)</li>
+<li>Day 26: Power Set (26th February 2024)</li>
