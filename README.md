@@ -221,3 +221,4 @@
 <li>Day 24: Maximum Sum Problem (24th February 2024)</li>
 <li>Day 25: Reach A Given Score (25th February 2024)</li>
 <li>Day 26: Power Set (26th February 2024)</li>
+<li>Day 27: Play With OR (27th February 2024)</li>
