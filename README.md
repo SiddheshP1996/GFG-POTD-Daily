@@ -223,3 +223,4 @@
 <li>Day 26: Power Set (26th February 2024)</li>
 <li>Day 27: Play With OR (27th February 2024)</li>
 <li>Day 28: Check If A Number Is Divisible By 8 (28th February 2024)</li>
+<li>Day 29: Sum Of Bit Differences (29th February 2024)</li>
