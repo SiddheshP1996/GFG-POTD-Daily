@@ -224,3 +224,6 @@
 <li>Day 27: Play With OR (27th February 2024)</li>
 <li>Day 28: Check If A Number Is Divisible By 8 (28th February 2024)</li>
 <li>Day 29: Sum Of Bit Differences (29th February 2024)</li>
+
+# March-2024
+<li>Day 1: Peak Element (1st March 2024)</li>
