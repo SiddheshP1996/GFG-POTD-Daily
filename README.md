@@ -228,3 +228,4 @@
 # March-2024
 <li>Day 1: Peak Element (1st March 2024)</li>
 <li>Day 2: First Element To Occur k Times (2nd March 2024)</li>
+<li>Day 3: Largest Number Formed From An Array (3rd March 2024)</li>
