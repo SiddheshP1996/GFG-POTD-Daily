@@ -232,3 +232,4 @@
 <li>Day 4: Swap The Array Elements (4th March 2024)</li>
 <li>Day 5: Maximum Index (5th March 2024)</li>
 <li>Day 6: Search Pattern (Rabin-Karp Algorithm) (6th March 2024)</li>
+<li>Day 7: Longest Repeating And Non-Overlapping Substring (7th March 2024)</li>
