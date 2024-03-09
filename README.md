@@ -234,3 +234,4 @@
 <li>Day 6: Search Pattern (Rabin-Karp Algorithm) (6th March 2024)</li>
 <li>Day 7: Longest Repeating And Non-Overlapping Substring (7th March 2024)</li>
 <li>Day 8: Check If Frequencies Can Be Equal (8th March 2024)</li>
+<li>Day 9: Find The N-th Character (9th March 2024)</li>
