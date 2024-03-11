@@ -236,3 +236,4 @@
 <li>Day 8: Check If Frequencies Can Be Equal (8th March 2024)</li>
 <li>Day 9: Find The N-th Character (9th March 2024)</li>
 <li>Day 10: Remove All Duplicates From A Given String (10th March 2024)</li>
+<li>Day 11: Count Pairs Sum In Matrices (11th March 2024)</li>
