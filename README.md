@@ -240,3 +240,4 @@
 <li>Day 12: Generalised Fibonacci Numbers (12th March 2024)</li>
 <li>Day 13: Print Matrix In Diagonal Pattern (13th March 2024)</li>
 <li>Day 14: Largest Subsquare Surrounded By X (14th March 2024)</li>
+<li>Day 15: Linked List That Is Sorted Alternatingly (15th March 2024)</li>
