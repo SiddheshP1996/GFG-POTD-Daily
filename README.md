@@ -241,3 +241,4 @@
 <li>Day 13: Print Matrix In Diagonal Pattern (13th March 2024)</li>
 <li>Day 14: Largest Subsquare Surrounded By X (14th March 2024)</li>
 <li>Day 15: Linked List That Is Sorted Alternatingly (15th March 2024)</li>
+<li>Day 16: Delete Without Head Pointer (16th March 2024)</li>
