@@ -243,3 +243,4 @@
 <li>Day 15: Linked List That Is Sorted Alternatingly (15th March 2024)</li>
 <li>Day 16: Delete Without Head Pointer (16th March 2024)</li>
 <li>Day 17: Count Pairs Whose Sum Is Equal To X (17th March 2024)</li>
+<li>Day 18: Level Order Traversal (18th March 2024)</li>
