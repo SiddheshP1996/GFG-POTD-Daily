@@ -247,3 +247,4 @@
 <li>Day 18: Level Order Traversal (18th March 2024)</li>
 <li>Day 19: Possible Paths In A Tree (19th March 2024)</li>
 <li>Day 20: Sum Of Nodes On The Longest Path From Root To Leaf Node (20th March 2024)</li>
+<li>Day 21: ZigZag Tree Traversal (21st March 2024)</li>
