@@ -249,3 +249,4 @@
 <li>Day 20: Sum Of Nodes On The Longest Path From Root To Leaf Node (20th March 2024)</li>
 <li>Day 21: ZigZag Tree Traversal (21st March 2024)</li>
 <li>Day 22: Diagonal Sum In Binary Tree (22nd March 2024)</li>
+<li>Day 23: Fibonacci Series Up To Nth Term (23rd March 2024)</li>
