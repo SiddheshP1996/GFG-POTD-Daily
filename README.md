@@ -250,3 +250,4 @@
 <li>Day 21: ZigZag Tree Traversal (21st March 2024)</li>
 <li>Day 22: Diagonal Sum In Binary Tree (22nd March 2024)</li>
 <li>Day 23: Fibonacci Series Up To Nth Term (23rd March 2024)</li>
+<li>Day 24: Insert An Element At The Bottom Of A Stack (24th March 2024)</li>
