@@ -252,3 +252,6 @@
 <li>Day 23: Fibonacci Series Up To Nth Term (23rd March 2024)</li>
 <li>Day 24: Insert An Element At The Bottom Of A Stack (24th March 2024)</li>
 <li>Day 25: Print N-bit Binary Numbers Having More 1s Than 0s (25th March 2024)</li>
+<li>Day 26: Additive Sequence (26th March 2024)</li>
+<li>Day 27: Find Shortest Safe Route An A Matrix (27th March 2024)</li>
+<li>Day 28: City With The Smallest Number Of Neighbors At A Threshold Distance (28th March 2024)</li>
