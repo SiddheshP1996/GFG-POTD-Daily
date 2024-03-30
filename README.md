@@ -256,3 +256,4 @@
 <li>Day 27: Find Shortest Safe Route An A Matrix (27th March 2024)</li>
 <li>Day 28: City With The Smallest Number Of Neighbors At A Threshold Distance (28th March 2024)</li>
 <li>Day 29: Euler Circuit In An Undirected Graph (29th March 2024)</li>
+<li>Day 30: Minimum Element In BST (30th March 2024)</li>
