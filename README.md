@@ -257,3 +257,6 @@
 <li>Day 28: City With The Smallest Number Of Neighbors At A Threshold Distance (28th March 2024)</li>
 <li>Day 29: Euler Circuit In An Undirected Graph (29th March 2024)</li>
 <li>Day 30: Minimum Element In BST (30th March 2024)</li>
+<li>Day 31: Closest Neighbour In BST (31st March 2024)</li>
+
+# April-2024
