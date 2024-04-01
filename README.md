@@ -260,3 +260,4 @@
 <li>Day 31: Closest Neighbour In BST (31st March 2024)</li>
 
 # April-2024
+<li>Day 1: Pairs Violating The BST Property (1st April 2024)</li>
