@@ -261,3 +261,4 @@
 
 # April-2024
 <li>Day 1: Pairs Violating The BST Property (1st April 2024)</li>
+<li>Day 2: Minimum Absolute Difference In BST (2nd April 2024)</li>
