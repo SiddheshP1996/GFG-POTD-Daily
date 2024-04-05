@@ -264,3 +264,4 @@
 <li>Day 2: Minimum Absolute Difference In BST (2nd April 2024)</li>
 <li>Day 3: Kth Common Ancestor In BST (3rd April 2024)</li>
 <li>Day 4: Sum Of All Substrings Of A Number (4th April 2024)</li>
+<li>Day 5: Strictly Increasing Array (5th April 2024)</li>
