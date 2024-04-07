@@ -266,3 +266,4 @@
 <li>Day 4: Sum Of All Substrings Of A Number (4th April 2024)</li>
 <li>Day 5: Strictly Increasing Array (5th April 2024)</li>
 <li>Day 6: Count Ways To N'th Stair (6th April 2024)</li>
+<li>Day 7: Maximize Dot Product (7th April 2024)</li>
