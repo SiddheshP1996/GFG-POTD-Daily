@@ -267,3 +267,4 @@
 <li>Day 5: Strictly Increasing Array (5th April 2024)</li>
 <li>Day 6: Count Ways To N'th Stair (6th April 2024)</li>
 <li>Day 7: Maximize Dot Product (7th April 2024)</li>
+<li>Day 8: Optimal Strategy For A Game (8th April 2024)</li>
