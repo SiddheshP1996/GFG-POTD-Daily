@@ -269,3 +269,4 @@
 <li>Day 7: Maximize Dot Product (7th April 2024)</li>
 <li>Day 8: Optimal Strategy For A Game (8th April 2024)</li>
 <li>Day 9: Minimum Points To Reach Destination (9th April 2024)</li>
+<li>Day 10: Party Of Couples (10th April 2024)</li>
