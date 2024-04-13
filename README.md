@@ -272,3 +272,4 @@
 <li>Day 10: Party Of Couples (10th April 2024)</li>
 <li>Day 11: Gray To Binary Equivalent (11th April 2024)</li>
 <li>Day 12: Sum Of Products (12th April 2024)</li>
+<li>Day 13: Reverse Bits (13th April 2024)</li>
