@@ -275,3 +275,4 @@
 <li>Day 13: Reverse Bits (13th April 2024)</li>
 <li>Day 14: Xoring And Clearing (14th April 2024)</li>
 <li>Day 15: Count The Elements (15th April 2024)</li>
+<li>Day 16: Minimize The Difference (16th April 2024)</li>
