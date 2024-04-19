@@ -278,3 +278,4 @@
 <li>Day 16: Minimize The Difference (16th April 2024)</li>
 <li>Day 17: Count Pairs In An Array (17th April 2024)</li>
 <li>Day 18: Two Repeated Elements (18th April 2024)</li>
+<li>Day 19: Find Missing In Second Array (19th April 2024)</li>
