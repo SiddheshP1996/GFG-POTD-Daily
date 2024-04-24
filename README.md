@@ -283,3 +283,4 @@
 <li>Day 21: Three Way Partitioning (21st April 2024)</li>
 <li>Day 22: Row With Minimum Number Of 1's (22nd April 2024)</li>
 <li>Day 23: Rohan's-Love For Matrix (23rd April 2024)</li>
+<li>Day 24: Paths To Reach Origin (24th April 2024)</li>
