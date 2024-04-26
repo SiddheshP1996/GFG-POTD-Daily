@@ -285,3 +285,4 @@
 <li>Day 23: Rohan's-Love For Matrix (23rd April 2024)</li>
 <li>Day 24: Paths To Reach Origin (24th April 2024)</li>
 <li>Day 25: Maximum Sum Of Hour Glass (25th April 2024)</li>
+<li>Day 26: Exit Point In A Matrix (26th April 2024)</li>
