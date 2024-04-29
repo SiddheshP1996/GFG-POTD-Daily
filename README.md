@@ -288,3 +288,4 @@
 <li>Day 26: Exit Point In A Matrix (26th April 2024)</li>
 <li>Day 27: Merge Sort On Doubly Linked List (27th April 2024)</li>
 <li>Day 28: Delete Middle Of Linked List (28th April 2024)</li>
+<li>Day 29: Remove Every kth Node (29th April 2024)</li>
