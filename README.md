@@ -289,3 +289,4 @@
 <li>Day 27: Merge Sort On Doubly Linked List (27th April 2024)</li>
 <li>Day 28: Delete Middle Of Linked List (28th April 2024)</li>
 <li>Day 29: Remove Every kth Node (29th April 2024)</li>
+<li>Day 30: Add Two Numbers Represented By Linked Lists (30th April 2024)</li>
