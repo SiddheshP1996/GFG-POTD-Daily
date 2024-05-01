@@ -290,3 +290,6 @@
 <li>Day 28: Delete Middle Of Linked List (28th April 2024)</li>
 <li>Day 29: Remove Every kth Node (29th April 2024)</li>
 <li>Day 30: Add Two Numbers Represented By Linked Lists (30th April 2024)</li>
+
+# May-2024
+<li>Day 1: Arrange Consonants And Vowels (1st May 2024)</li>
