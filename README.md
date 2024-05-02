@@ -293,3 +293,4 @@
 
 # May-2024
 <li>Day 1: Arrange Consonants And Vowels (1st May 2024)</li>
+<li>Day 2: Serialize And Deserialize A Binary Tree (2nd May 2024)</li>
