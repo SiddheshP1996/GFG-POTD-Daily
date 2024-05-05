@@ -296,3 +296,4 @@
 <li>Day 2: Serialize And Deserialize A Binary Tree (2nd May 2024)</li>
 <li>Day 3: K Distance From Root (3rd May 2024)</li>
 <li>Day 4: Construct Binary Tree From Inorder And Postorder (4th May 2024)</li>
+<li>Day 5: Vertical Sum (5th May 2024)</li>
