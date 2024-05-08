@@ -299,3 +299,4 @@
 <li>Day 5: Vertical Sum (5th May 2024)</li>
 <li>Day 6: Print All Nodes That Don't Have Sibling (6th May 2024)</li>
 <li>Day 7: Reverse Level Order Traversal (7th May 2024)</li>
+<li>Day 8: Root To Leaf Paths (8th May 2024)</li>
