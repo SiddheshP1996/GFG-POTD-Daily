@@ -302,3 +302,4 @@
 <li>Day 8: Root To Leaf Paths (8th May 2024)</li>
 <li>Day 9: Divisor Game (9th May 2024)</li>
 <li>Day 10: Combination Sum II (10th May 2024)</li>
+<li>Day 11: Juggler Sequence (11th May 2024)</li>
