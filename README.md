@@ -305,3 +305,4 @@
 <li>Day 11: Juggler Sequence (11th May 2024)</li>
 <li>Day 12: Minimum Steps To Destination (12th May 2024)</li>
 <li>Day 13: Number Of Good Components (13th May 2024)</li>
+<li>Day 14: Path With Minimum Effort (14th May 2024)</li>
