@@ -308,3 +308,4 @@
 <li>Day 14: Path With Minimum Effort (14th May 2024)</li>
 <li>Day 15: Account Merge (15th May 2024)</li>
 <li>Day 16: Divisibility Tree (16th May 2024)</li>
+<li>Day 17: Find Pair Given Difference (17th May 2024)</li>
