@@ -313,3 +313,5 @@
 <li>Day 19: Find The Closest Number (19th May 2024)</li>
 <li>Day 20: Modular Exponentiation For Large Numbers (20th May 2024)</li>
 <li>Day 21: K Closest Elements (21st May 2024)</li>
+<li>Day 22: Minimize Max Distance To Gas Station (22nd May 2024)</li>
+<li>Day 23: K-Palindrome (23rd May 2024)</li>
