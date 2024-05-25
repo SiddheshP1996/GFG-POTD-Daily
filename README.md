@@ -316,3 +316,4 @@
 <li>Day 22: Minimize Max Distance To Gas Station (22nd May 2024)</li>
 <li>Day 23: K-Palindrome (23rd May 2024)</li>
 <li>Day 24: Partitions With Given Difference (24th May 2024)</li>
+<li>Day 25: You And Your Books (25th May 2024)</li>
