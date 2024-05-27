@@ -318,3 +318,4 @@
 <li>Day 24: Partitions With Given Difference (24th May 2024)</li>
 <li>Day 25: You And Your Books (25th May 2024)</li>
 <li>Day 26: Minimum Cost To Make Two Strings Identical (26th May 2024)</li>
+<li>Day 27: Longest Subsequence 1 (27th May 2024)</li>
