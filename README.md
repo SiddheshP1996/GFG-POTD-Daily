@@ -319,3 +319,4 @@
 <li>Day 25: You And Your Books (25th May 2024)</li>
 <li>Day 26: Minimum Cost To Make Two Strings Identical (26th May 2024)</li>
 <li>Day 27: Longest Subsequence 1 (27th May 2024)</li>
+<li>Day 28: Minimum Cost To Fill Given Weight In A Bag (28th May 2024)</li>
