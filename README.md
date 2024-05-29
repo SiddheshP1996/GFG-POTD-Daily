@@ -320,3 +320,4 @@
 <li>Day 26: Minimum Cost To Make Two Strings Identical (26th May 2024)</li>
 <li>Day 27: Longest Subsequence 1 (27th May 2024)</li>
 <li>Day 28: Minimum Cost To Fill Given Weight In A Bag (28th May 2024)</li>
+<li>Day 29: Geek And Its Game Of Coins (29th May 2024)</li>
