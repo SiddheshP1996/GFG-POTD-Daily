@@ -323,3 +323,6 @@
 <li>Day 29: Geek And Its Game Of Coins (29th May 2024)</li>
 <li>Day 30: String Subsequence (30th May 2024)</li>
 <li>Day 31: Swap Two Nibbles In A Byte (31st May 2024)</li>
+
+# June-2024
+<li>Day 1: Odd Even Problem (1st June 2024)</li>
