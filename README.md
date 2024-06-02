@@ -326,3 +326,4 @@
 
 # June-2024
 <li>Day 1: Odd Even Problem (1st June 2024)</li>
+<li>Day 2: Construct List Using Given Q XOR Queries (2nd June 2024)</li>
