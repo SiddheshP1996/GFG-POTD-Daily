@@ -329,3 +329,4 @@
 <li>Day 2: Construct List Using Given Q XOR Queries (2nd June 2024)</li>
 <li>Day 3: Trail Of Ones (3rd June 2024)</li>
 <li>Day 4: Binary Representation Of Next Number (4th June 2024)</li>
+<li>Day 5: Swapping Pairs Make Sum Equal (5th June 2024)</li>
