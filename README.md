@@ -332,3 +332,4 @@
 <li>Day 5: Swapping Pairs Make Sum Equal (5th June 2024)</li>
 <li>Day 6: Max Sum In The Configuration (6th June 2024)</li>
 <li>Day 7: Maximum Occured Integer (7th June 2024)</li>
+<li>Day 8: Index Of An Extra Element (8th June 2024)</li>
