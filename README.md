@@ -334,3 +334,4 @@
 <li>Day 7: Maximum Occured Integer (7th June 2024)</li>
 <li>Day 8: Index Of An Extra Element (8th June 2024)</li>
 <li>Day 9: Convert Array Into Zig-Zag Fashion (9th June 2024)</li>
+<li>Day 10: Nuts And Bolts Problem (10th June 2024)</li>
