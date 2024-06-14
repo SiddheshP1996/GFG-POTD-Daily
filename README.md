@@ -338,3 +338,4 @@
 <li>Day 11: Maximum Tip Calculator (11th June 2024)</li>
 <li>Day 12: Count Numbers Containing 4 (12th June 2024)</li>
 <li>Day 13: Padovan Sequence (13th June 2024)</li>
+<li>Day 14: Armstrong Numbers (14th June 2024)</li>
