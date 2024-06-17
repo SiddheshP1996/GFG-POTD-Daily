@@ -341,3 +341,4 @@
 <li>Day 14: Armstrong Numbers (14th June 2024)</li>
 <li>Day 15: Mobile Numeric Keypad (15th June 2024)</li>
 <li>Day 16: Prime Pair With Target Sum (16th June 2024)</li>
+<li>Day 17: Check If Two Line Segments Intersect (17th June 2024)</li>
