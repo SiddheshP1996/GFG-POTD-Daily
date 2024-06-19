@@ -343,3 +343,4 @@
 <li>Day 16: Prime Pair With Target Sum (16th June 2024)</li>
 <li>Day 17: Check If Two Line Segments Intersect (17th June 2024)</li>
 <li>Day 18: Number Of Rectangles In A Circle (18th June 2024)</li>
+<li>Day 19: Find Maximum Volume Of A Cuboid (19th June 2024)</li>
