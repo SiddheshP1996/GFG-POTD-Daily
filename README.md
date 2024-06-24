@@ -348,3 +348,4 @@
 <li>Day 21: Compare Two Fractions (21st June 2024)</li>
 <li>Day 22: Extract The Number From The String (22nd June 2024)</li>
 <li>Day 23: Print Bracket Number (23rd June 2024)</li>
+<li>Day 24: Summed Matrix (24th June 2024)</li>
