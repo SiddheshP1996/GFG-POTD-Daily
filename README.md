@@ -352,3 +352,4 @@
 <li>Day 25: Left Rotate Matrix K Times (25th June 2024)</li>
 <li>Day 26: Coverage Of All Zeros In A Binary Matrix (26th June 2024)</li>
 <li>Day 27: Toeplitz Matrix (27th June 2024)</li>
+<li>Day 28: The Palindrome Pattern (28th June 2024)</li>
