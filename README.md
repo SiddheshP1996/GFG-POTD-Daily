@@ -354,3 +354,4 @@
 <li>Day 27: Toeplitz Matrix (27th June 2024)</li>
 <li>Day 28: The Palindrome Pattern (28th June 2024)</li>
 <li>Day 29: Identical Linked Lists (29th June 2024)</li>
+<li>Day 30: Delete Node In Doubly Linked List (30th June 2024)</li>
