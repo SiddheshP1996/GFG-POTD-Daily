@@ -355,3 +355,6 @@
 <li>Day 28: The Palindrome Pattern (28th June 2024)</li>
 <li>Day 29: Identical Linked Lists (29th June 2024)</li>
 <li>Day 30: Delete Node In Doubly Linked List (30th June 2024)</li>
+
+# July-2024
+<li>Day 1: Make Binary Tree From Linked List (1st July 2024)</li>
