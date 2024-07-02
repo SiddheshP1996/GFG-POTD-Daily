@@ -358,3 +358,4 @@
 
 # July-2024
 <li>Day 1: Make Binary Tree From Linked List (1st July 2024)</li>
+<li>Day 2: Linked List Of Strings Forms A Palindrome (2nd July 2024)</li>
