@@ -360,3 +360,4 @@
 <li>Day 1: Make Binary Tree From Linked List (1st July 2024)</li>
 <li>Day 2: Linked List Of Strings Forms A Palindrome (2nd July 2024)</li>
 <li>Day 3: Remove All Occurences Of Duplicates In A Linked List (3rd July 2024)</li>
+<li>Day 4: Duplicate Subtrees (4th July 2024)</li>
