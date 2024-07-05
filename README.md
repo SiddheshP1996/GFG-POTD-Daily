@@ -361,3 +361,4 @@
 <li>Day 2: Linked List Of Strings Forms A Palindrome (2nd July 2024)</li>
 <li>Day 3: Remove All Occurences Of Duplicates In A Linked List (3rd July 2024)</li>
 <li>Day 4: Duplicate Subtrees (4th July 2024)</li>
+<li>Day 5: Vertical Width Of A Binary Tree (5th July 2024)</li>
