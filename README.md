@@ -364,3 +364,4 @@
 <li>Day 5: Vertical Width Of A Binary Tree (5th July 2024)</li>
 <li>Day 6: Populate Inorder Successor For All Nodes (6th July 2024)</li>
 <li>Day 7: Ancestors In Binary Tree (7th July 2024)</li>
+<li>Day 8: Search In Rotated Sorted Array (8th July 2024)</li>
