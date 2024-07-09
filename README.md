@@ -365,3 +365,4 @@
 <li>Day 6: Populate Inorder Successor For All Nodes (6th July 2024)</li>
 <li>Day 7: Ancestors In Binary Tree (7th July 2024)</li>
 <li>Day 8: Search In Rotated Sorted Array (8th July 2024)</li>
+<li>Day 9: Closest Three Sum (9th July 2024)</li>
