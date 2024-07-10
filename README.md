@@ -366,3 +366,4 @@
 <li>Day 7: Ancestors In Binary Tree (7th July 2024)</li>
 <li>Day 8: Search In Rotated Sorted Array (8th July 2024)</li>
 <li>Day 9: Closest Three Sum (9th July 2024)</li>
+<li>Day 10: Largest Square Formed In A Matrix (10th July 2024)</li>
