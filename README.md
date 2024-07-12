@@ -368,3 +368,4 @@
 <li>Day 9: Closest Three Sum (9th July 2024)</li>
 <li>Day 10: Largest Square Formed In A Matrix (10th July 2024)</li>
 <li>Day 11: Maximum Connected Group (11th July 2024)</li>
+<li>Day 12: Root To Leaf Path Sum (12th July 2024)</li>
