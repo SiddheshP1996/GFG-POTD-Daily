@@ -370,3 +370,4 @@
 <li>Day 11: Maximum Connected Group (11th July 2024)</li>
 <li>Day 12: Root To Leaf Path Sum (12th July 2024)</li>
 <li>Day 13: Shortest Path In Weighted Undirected Graph (13th July 2024)</li>
+<li>Day 14: Segregate 0s And 1s (14th July 2024)</li>
