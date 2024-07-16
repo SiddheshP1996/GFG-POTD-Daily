@@ -372,3 +372,4 @@
 <li>Day 13: Shortest Path In Weighted Undirected Graph (13th July 2024)</li>
 <li>Day 14: Segregate 0s And 1s (14th July 2024)</li>
 <li>Day 15: Smallest Number (15th July 2024)</li>
+<li>Day 16: Remaining String (16th July 2024)</li>
