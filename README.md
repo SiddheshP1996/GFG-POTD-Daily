@@ -375,3 +375,4 @@
 <li>Day 16: Remaining String (16th July 2024)</li>
 <li>Day 17: Construct Binary Tree From Parent Array (17th July 2024)</li>
 <li>Day 18: Longest Alternating Subsequence (18th July 2024)</li>
+<li>Day 19: Count Smaller Elements (19th July 2024)</li>
