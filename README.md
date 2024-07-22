@@ -378,3 +378,4 @@ oo# GFG-POTD-Daily
 <li>Day 19: Count Smaller Elements (19th July 2024)</li>
 <li>Day 20: Remove Half Nodes (20th July 2024)</li>
 <li>Day 21: Maximum Product Subset Of An Array (21st July 2024)</li>
+<li>Day 22: Largest BST (22nd July 2024)</li>
