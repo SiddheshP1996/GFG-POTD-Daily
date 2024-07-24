@@ -380,3 +380,4 @@ oo# GFG-POTD-Daily
 <li>Day 21: Maximum Product Subset Of An Array (21st July 2024)</li>
 <li>Day 22: Largest BST (22nd July 2024)</li>
 <li>Day 23: Merge Two BST's (23rd July 2024)</li>
+<li>Day 24: Check For BST (24th July 2024)</li>
