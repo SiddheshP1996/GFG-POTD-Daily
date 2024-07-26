@@ -382,3 +382,4 @@ oo# GFG-POTD-Daily
 <li>Day 23: Merge Two BST's (23rd July 2024)</li>
 <li>Day 24: Check For BST (24th July 2024)</li>
 <li>Day 25: Array To BST (25th July 2024)</li>
+<li>Day 26: K-Pangrams (26th July 2024)</li>
