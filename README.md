@@ -1,4 +1,4 @@
-oo# GFG-POTD-Daily
+# GFG-POTD-Daily
 
 # Challenge-Solutions-for-2023
 
