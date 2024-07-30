@@ -386,3 +386,4 @@
 <li>Day 27: Form A Palindrome (27th July 2024)</li>
 <li>Day 28: Remove Duplicates (28th July 2024)</li>
 <li>Day 29: Row With Max 1s (29th July 2024)</li>
+<li>Day 30: Rat In A Maze Problem - I (30th July 2024)</li>
