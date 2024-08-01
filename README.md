@@ -388,3 +388,6 @@
 <li>Day 29: Row With Max 1s (29th July 2024)</li>
 <li>Day 30: Rat In A Maze Problem - I (30th July 2024)</li>
 <li>Day 31: Longest Common Prefix Of Strings (31st July 2024)</li>
+
+# August-2024
+<li>Day 1: Spirally Traversing A Matrix (1st August 2024)</li>
