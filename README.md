@@ -392,3 +392,4 @@
 # August-2024
 <li>Day 1: Spirally Traversing A Matrix (1st August 2024)</li>
 <li>Day 2: Edit Distance (2nd August 2024)</li>
+<li>Day 3: The Celebrity Problem (3rd August 2024)</li>
