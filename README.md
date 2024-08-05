@@ -394,3 +394,4 @@
 <li>Day 2: Edit Distance (2nd August 2024)</li>
 <li>Day 3: The Celebrity Problem (3rd August 2024)</li>
 <li>Day 4: N Meetings In One Room (4th August 2024)</li>
+<li>Day 5: Bottom View Of Binary Tree (5th August 2024)</li>
