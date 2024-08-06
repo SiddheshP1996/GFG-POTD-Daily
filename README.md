@@ -395,3 +395,4 @@
 <li>Day 3: The Celebrity Problem (3rd August 2024)</li>
 <li>Day 4: N Meetings In One Room (4th August 2024)</li>
 <li>Day 5: Bottom View Of Binary Tree (5th August 2024)</li>
+<li>Day 6: Validate An IP Address (6th August 2024)</li>
