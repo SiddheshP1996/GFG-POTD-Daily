@@ -398,3 +398,4 @@
 <li>Day 6: Validate An IP Address (6th August 2024)</li>
 <li>Day 7: K-th Element Of Two Arrays (7th August 2024)</li>
 <li>Day 8: Sum Tree (8th August 2024)</li>
+<li>Day 9: Maximize Array Value After Rearrangement (9th August 2024)</li>
