@@ -400,3 +400,4 @@
 <li>Day 8: Sum Tree (8th August 2024)</li>
 <li>Day 9: Maximize Array Value After Rearrangement (9th August 2024)</li>
 <li>Day 10: Rotate A Linked List (10th August 2024)</li>
+<li>Day 11: Job Sequencing Problem (11th August 2024)</li>
