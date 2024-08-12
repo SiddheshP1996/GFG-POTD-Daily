@@ -401,3 +401,4 @@
 <li>Day 9: Maximize Array Value After Rearrangement (9th August 2024)</li>
 <li>Day 10: Rotate A Linked List (10th August 2024)</li>
 <li>Day 11: Job Sequencing Problem (11th August 2024)</li>
+<li>Day 12: Sum Of Middle Elements Of Two Sorted Arrays (12th August 2024)</li>
