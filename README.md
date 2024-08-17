@@ -406,3 +406,4 @@
 <li>Day 14: Longest Common Substring (14th August 2024)</li>
 <li>Day 15: Add 1 To A Linked List Number (15th August 2024)</li>
 <li>Day 16: Maximize The Cut Segments (16th August 2024)</li>
+<li>Day 17: Product Array Puzzle (17th August 2024)</li>
