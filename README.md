@@ -407,3 +407,4 @@
 <li>Day 15: Add 1 To A Linked List Number (15th August 2024)</li>
 <li>Day 16: Maximize The Cut Segments (16th August 2024)</li>
 <li>Day 17: Product Array Puzzle (17th August 2024)</li>
+<li>Day 18: Split An Array Into Two Equal Sum Subarrays (18th August 2024)</li>
