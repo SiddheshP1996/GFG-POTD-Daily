@@ -410,3 +410,4 @@
 <li>Day 18: Split An Array Into Two Equal Sum Subarrays (18th August 2024)</li>
 <li>Day 19: Kth Smallest (19th August 2024)</li>
 <li>Day 20: Burning Tree (20th August 2024)</li>
+<li>Day 21: Shortest Path In Undirected Graph (21st August 2024)</li>
