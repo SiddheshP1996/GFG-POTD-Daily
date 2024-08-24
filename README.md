@@ -413,3 +413,4 @@
 <li>Day 21: Shortest Path In Undirected Graph (21st August 2024)</li>
 <li>Day 22: Alien Dictionary (22nd August 2024)</li>
 <li>Day 23: Left View Of Binary Tree (23rd August 2024)</li>
+<li>Day 24: 0 - 1 Knapsack Problem (24th August 2024)</li>
