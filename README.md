@@ -415,3 +415,4 @@
 <li>Day 23: Left View Of Binary Tree (23rd August 2024)</li>
 <li>Day 24: 0 - 1 Knapsack Problem (24th August 2024)</li>
 <li>Day 25: Number Of Pairs (25th August 2024)</li>
+<li>Day 26: Wildcard Pattern Matching (26th August 2024)</li>
