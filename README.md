@@ -418,3 +418,4 @@
 <li>Day 26: Wildcard Pattern Matching (26th August 2024)</li>
 <li>Day 27: Maximum Difference (27th August 2024)</li>
 <li>Day 28: Sorting Elements Of An Array By Frequency (28th August 2024)</li>
+<li>Day 29: Find Length Of Loop (29th August 2024)</li>
