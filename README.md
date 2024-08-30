@@ -419,3 +419,4 @@
 <li>Day 27: Maximum Difference (27th August 2024)</li>
 <li>Day 28: Sorting Elements Of An Array By Frequency (28th August 2024)</li>
 <li>Day 29: Find Length Of Loop (29th August 2024)</li>
+<li>Day 30: N-Queen Problem (30th August 2024)</li>
