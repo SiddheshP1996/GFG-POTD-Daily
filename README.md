@@ -424,3 +424,4 @@
 
 # September-2024
 <li>Day 1: Max Sum Path In Two Arrays (1st September 2024)</li>
+<li>Day 2: Minimum Cost Path (2nd September 2024)</li>
