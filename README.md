@@ -427,3 +427,4 @@
 <li>Day 2: Minimum Cost Path (2nd September 2024)</li>
 <li>Day 3: Minimum Number Of Deletions And Insertions (3rd September 2024)</li>
 <li>Day 4: Count Ways To N'th Stair(Order Does Not Matter) (4th September 2024)</li>
+<li>Day 5: Missing In Array (5th September 2024)</li>
