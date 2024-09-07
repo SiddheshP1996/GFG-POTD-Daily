@@ -429,3 +429,4 @@
 <li>Day 4: Count Ways To N'th Stair(Order Does Not Matter) (4th September 2024)</li>
 <li>Day 5: Missing In Array (5th September 2024)</li>
 <li>Day 6: Kadane's Algorithm (6th September 2024)</li>
+<li>Day 7: Nth Natural Number (7th September 2024)</li>
