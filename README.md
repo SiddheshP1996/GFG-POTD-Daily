@@ -431,3 +431,4 @@
 <li>Day 6: Kadane's Algorithm (6th September 2024)</li>
 <li>Day 7: Nth Natural Number (7th September 2024)</li>
 <li>Day 8: Minimum Jumps (8th September 2024)</li>
+<li>Day 9: Sort 0s, 1s And 2s (9th September 2024)</li>
