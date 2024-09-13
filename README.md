@@ -435,3 +435,4 @@
 <li>Day 10: Circle Of Strings (10th September 2024)</li>
 <li>Day 11: Minimum Cost Of Ropes (11th September 2024)</li>
 <li>Day 12: Middle Of A Linked List (12th September 2024)</li>
+<li>Day 13: Mirror Tree (13th September 2024)</li>
