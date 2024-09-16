@@ -438,3 +438,4 @@
 <li>Day 13: Mirror Tree (13th September 2024)</li>
 <li>Day 14: Alternate Positive And Negative Numbers (14th September 2024)</li>
 <li>Day 15: Binary Tree To DLL (15th September 2024)</li>
+<li>Day 16: Longest Valid Parentheses (16th September 2024)</li>
