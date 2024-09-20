@@ -442,3 +442,4 @@
 <li>Day 17: Minimize The Heights II (17th September 2024)</li>
 <li>Day 18: Parenthesis Checker (18th September 2024)</li>
 <li>Day 19: Reverse Words (19th September 2024)</li>
+<li>Day 20: Facing The Sun (20th September 2024)</li>
