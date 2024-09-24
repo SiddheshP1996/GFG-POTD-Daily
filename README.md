@@ -446,3 +446,4 @@
 <li>Day 21: Clone A Linked List With Next And Random Pointer (21st September 2024)</li>
 <li>Day 22: Longest Prefix Suffix (22nd September 2024)</li>
 <li>Day 23: Missing And Repeating (23rd September 2024)</li>
+<li>Day 24: Smallest Window In A String Containing All The Characters Of Another String (24th September 2024)</li>
