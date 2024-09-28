@@ -450,3 +450,4 @@
 <li>Day 25: Palindrome Linked List (25th September 2024)</li>
 <li>Day 26: Roof Top (26th September 2024)</li>
 <li>Day 27: K Sized Subarray Maximum (27th September 2024)</li>
+<li>Day 28: Minimal Cost (28th September 2024)</li>
