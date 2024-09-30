@@ -452,3 +452,4 @@
 <li>Day 27: K Sized Subarray Maximum (27th September 2024)</li>
 <li>Day 28: Minimal Cost (28th September 2024)</li>
 <li>Day 29: Total Count (29th September 2024)</li>
+<li>Day 30: Merge Two BST's (30th September 2024)</li>
