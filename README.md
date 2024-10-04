@@ -458,3 +458,4 @@
 <li>Day 1: Multiply Two Linked Lists (1st October 2024)</li>
 <li>Day 2: Rotate And Delete (2nd October 2024)</li>
 <li>Day 3: Majority Vote (3rd October 2024)</li>
+<li>Day 4: Deletion And Reverse In Circular Linked List (4th October 2024)</li>
