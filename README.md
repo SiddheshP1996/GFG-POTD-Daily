@@ -460,3 +460,4 @@
 <li>Day 3: Majority Vote (3rd October 2024)</li>
 <li>Day 4: Deletion And Reverse In Circular Linked List (4th October 2024)</li>
 <li>Day 5: Not A Subset Sum (5th October 2024)</li>
+<li>Day 6: Find The Number Of Islands (6th October 2024)</li>
