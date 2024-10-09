@@ -463,3 +463,4 @@
 <li>Day 6: Find The Number Of Islands (6th October 2024)</li>
 <li>Day 7: XOR Linked List (7th October 2024)</li>
 <li>Day 8: Largest Pair Sum (8th October 2024)</li>
+<li>Day 9: Linked List Matrix (9th October 2024)</li>
