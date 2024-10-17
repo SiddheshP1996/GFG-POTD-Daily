@@ -471,3 +471,4 @@
 <li>Day 14: Count Linked List Nodes (14th October 2024)</li>
 <li>Day 15: Subarray Range With Given Sum (15th October 2024)</li>
 <li>Day 16: Two Swaps (16th October 2024)</li>
+<li>Day 17: Split Linked List Alternatingly (17th October 2024)</li>
