@@ -472,3 +472,4 @@
 <li>Day 15: Subarray Range With Given Sum (15th October 2024)</li>
 <li>Day 16: Two Swaps (16th October 2024)</li>
 <li>Day 17: Split Linked List Alternatingly (17th October 2024)</li>
+<li>Day 18: Single Number (18th October 2024)</li>
