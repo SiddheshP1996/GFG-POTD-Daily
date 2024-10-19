@@ -473,3 +473,4 @@
 <li>Day 16: Two Swaps (16th October 2024)</li>
 <li>Day 17: Split Linked List Alternatingly (17th October 2024)</li>
 <li>Day 18: Single Number (18th October 2024)</li>
+<li>Day 19: Nearest Multiple Of 10 (19th October 2024)</li>
