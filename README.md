@@ -474,3 +474,4 @@
 <li>Day 17: Split Linked List Alternatingly (17th October 2024)</li>
 <li>Day 18: Single Number (18th October 2024)</li>
 <li>Day 19: Nearest Multiple Of 10 (19th October 2024)</li>
+<li>Day 20: Sort A k Sorted Doubly Linked List (20th October 2024)</li>
