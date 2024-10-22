@@ -476,3 +476,4 @@
 <li>Day 19: Nearest Multiple Of 10 (19th October 2024)</li>
 <li>Day 20: Sort A k Sorted Doubly Linked List (20th October 2024)</li>
 <li>Day 21: Split The Array (21st October 2024)</li>
+<li>Day 22: Sub-Arrays With Equal Number Of Occurences (22nd October 2024)</li>
