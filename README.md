@@ -479,3 +479,4 @@
 <li>Day 22: Sub-Arrays With Equal Number Of Occurences (22nd October 2024)</li>
 <li>Day 23: Find The Sum Of Last N Nodes Of The Linked List (23rd October 2024)</li>
 <li>Day 24: Modify The Array (24th October 2024)</li>
+<li>Day 25: Alternative Sorting (25th October 2024)</li>
