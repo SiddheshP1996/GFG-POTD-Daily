@@ -483,3 +483,4 @@
 <li>Day 26: Occurence Of An Integer In A Linked List (26th October 2024)</li>
 <li>Day 27: Triplet Family (27th October 2024)</li>
 <li>Day 28: Remove Duplicates In Array (28th October 2024)</li>
+<li>Day 29: Quick Sort On Linked List (29th October 2024)</li>
