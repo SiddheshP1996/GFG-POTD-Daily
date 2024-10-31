@@ -485,3 +485,4 @@
 <li>Day 28: Remove Duplicates In Array (28th October 2024)</li>
 <li>Day 29: Quick Sort On Linked List (29th October 2024)</li>
 <li>Day 30: Pairs With Difference k (30th October 2024)</li>
+<li>Day 31: Insert In Sorted Way In A Sorted DLL (31st October 2024)</li>
