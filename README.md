@@ -486,3 +486,6 @@
 <li>Day 29: Quick Sort On Linked List (29th October 2024)</li>
 <li>Day 30: Pairs With Difference k (30th October 2024)</li>
 <li>Day 31: Insert In Sorted Way In A Sorted DLL (31st October 2024)</li>
+
+# November-2024
+<li>Day 1: Swap And Maximize (1st November 2024)</li>
