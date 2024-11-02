@@ -489,3 +489,4 @@
 
 # November-2024
 <li>Day 1: Swap And Maximize (1st November 2024)</li>
+<li>Day 2: Kth Distance (2nd November 2024)</li>
