@@ -492,3 +492,4 @@
 <li>Day 2: Kth Distance (2nd November 2024)</li>
 <li>Day 3: Is Linked List Length Even ? (3rd November 2024)</li>
 <li>Day 4: Find All Triplets With Zero Sum (4th November 2024)</li>
+<li>Day 5: Rotate By 90 Degree (5th November 2024)</li>
