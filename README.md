@@ -496,3 +496,4 @@
 <li>Day 6: Root To Leaf Paths Sum (6th November 2024)</li>
 <li>Day 7: Split Array In Three Equal Sum Subarrays (7th November 2024)</li>
 <li>Day 8: Minimum Repeat To Make Substring (8th November 2024)</li>
+<li>Day 9: Minimum Sum (9th November 2024)</li>
