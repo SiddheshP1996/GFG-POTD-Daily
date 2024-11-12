@@ -499,3 +499,4 @@
 <li>Day 9: Minimum Sum (9th November 2024)</li>
 <li>Day 10: Union Of Two Sorted Arrays With Distinct Elements (10th November 2024)</li>
 <li>Day 11: Make Array Elements Unique (11th November 2024)</li>
+<li>Day 12: Meeting Rooms (12th November 2024)</li>
