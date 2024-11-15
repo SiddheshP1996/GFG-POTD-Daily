@@ -502,3 +502,4 @@
 <li>Day 12: Meeting Rooms (12th November 2024)</li>
 <li>Day 13: Intersection Point In Y Shaped Linked Lists (13th November 2024)</li>
 <li>Day 14: Nearly Sorted (14th November 2024)</li>
+<li>Day 15: Second Largest (15th November 2024)</li>
