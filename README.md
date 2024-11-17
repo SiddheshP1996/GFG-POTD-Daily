@@ -504,3 +504,4 @@
 <li>Day 14: Nearly Sorted (14th November 2024)</li>
 <li>Day 15: Second Largest (15th November 2024)</li>
 <li>Day 16: Move All Zeroes To End (16th November 2024)</li>
+<li>Day 17: Reverse An Array (17th November 2024)</li>
