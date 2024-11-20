@@ -507,3 +507,4 @@
 <li>Day 17: Reverse An Array (17th November 2024)</li>
 <li>Day 18: Rotate Array (18th November 2024)</li>
 <li>Day 19: Next Permutation (19th November 2024)</li>
+<li>Day 20: Majority Element II (20th November 2024)</li>
