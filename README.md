@@ -511,3 +511,4 @@
 <li>Day 21: Stock Buy And Sell - Multiple Transaction Allowed (21st November 2024)</li>
 <li>Day 22: Stock Buy And Sell - Max One Transaction Allowed (22nd November 2024)</li>
 <li>Day 23: Minimize The Heights I (23rd November 2024)</li>
+<li>Day 24: Kadane's Algorithm (24th November 2024)</li>
