@@ -514,3 +514,4 @@
 <li>Day 24: Kadane's Algorithm (24th November 2024)</li>
 <li>Day 25: Maximum Product Subarray (25th November 2024)</li>
 <li>Day 26: Max Circular Subarray Sum (26th November 2024)</li>
+<li>Day 27: Smallest Positive Missing Number (27th November 2024)</li>
