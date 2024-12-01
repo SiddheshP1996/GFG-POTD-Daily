@@ -518,3 +518,6 @@
 <li>Day 28: Implement Atoi (28th November 2024)</li>
 <li>Day 29: Add Binary Strings (29th November 2024)</li>
 <li>Day 30: Anagram (30th November 2024)</li>
+
+# December-2024
+<li>Day 1: Non Repeating Character (1st December 2024)</li>
