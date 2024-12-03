@@ -522,3 +522,4 @@
 # December-2024
 <li>Day 1: Non Repeating Character (1st December 2024)</li>
 <li>Day 2: Search Pattern (KMP Algorithm) (2nd December 2024)</li>
+<li>Day 3: Min Chars To Add For Palindrome (3rd December 2024)</li>
