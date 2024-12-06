@@ -525,3 +525,4 @@
 <li>Day 3: Min Chars To Add For Palindrome (3rd December 2024)</li>
 <li>Day 4: Strings Rotations Of Each Other (4th December 2024)</li>
 <li>Day 5: Sort 0s, 1s and 2s (5th December 2024)</li>
+<li>Day 6: Find H-Index (6th December 2024)</li>
